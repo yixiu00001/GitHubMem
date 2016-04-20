@@ -11,3 +11,5 @@ git push -u origin mybranch1
 git tag -m "add all file onto master"     masterv1.0
 6.查看tag
 git tag -l -n1 
+7.分享标签到远端仓库
+git push origin [tagname] 
