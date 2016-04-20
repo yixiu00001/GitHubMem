@@ -7,3 +7,7 @@ git add README.md
 git commint -m "update readme" 
 4.提交到仓库
 git push -u origin mybranch1 
+5.添加tag
+git tag -m "add all file onto master"     masterv1.0
+6.查看tag
+git tag -l -n1 
